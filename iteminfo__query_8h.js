@@ -5,6 +5,7 @@ var iteminfo__query_8h =
     [ "iteminfo_query_base", "iteminfo__query_8h.html#a6ee7c841c06507c42f03f9c69c190004", null ],
     [ "iteminfo_parts", "iteminfo__query_8h.html#aa68a581556ddf9d10387ba6d9f760cda", [
       [ "BASE_CATEGORY", "iteminfo__query_8h.html#aa68a581556ddf9d10387ba6d9f760cdaa75a792139684dc53e8d06ed67b4c2b05", null ],
+      [ "BASE_MOD_SRC", "iteminfo__query_8h.html#aa68a581556ddf9d10387ba6d9f760cdaa873770393665c1a496127caa092e469c", null ],
       [ "BASE_PRICE", "iteminfo__query_8h.html#aa68a581556ddf9d10387ba6d9f760cdaaf274919abb7f766dc610cb2b52cccea9", null ],
       [ "BASE_BARTER", "iteminfo__query_8h.html#aa68a581556ddf9d10387ba6d9f760cdaa6969097b379c9c7fcb8105d3d51d13a6", null ],
       [ "BASE_VOLUME", "iteminfo__query_8h.html#aa68a581556ddf9d10387ba6d9f760cdaa71cf0f0e6acd28ae9bf66f560dccbb88", null ],
@@ -148,6 +149,7 @@ var iteminfo__query_8h =
       [ "DESCRIPTION_FLAGS_POWERARMOR", "iteminfo__query_8h.html#aa68a581556ddf9d10387ba6d9f760cdaa5789a7c68b3aaf7dfb33db96e6a86665", null ],
       [ "DESCRIPTION_FLAGS_POWERARMOR_RADIATIONHINT", "iteminfo__query_8h.html#aa68a581556ddf9d10387ba6d9f760cdaad677c6c4526b3d8b3f2596d9e61661c4", null ],
       [ "DESCRIPTION_IRRADIATION", "iteminfo__query_8h.html#aa68a581556ddf9d10387ba6d9f760cdaa59be0d71ec1b070b18d9f4215fa4a90f", null ],
+      [ "DESCRIPTION_BIONIC_ARMOR_INTERFACE", "iteminfo__query_8h.html#aa68a581556ddf9d10387ba6d9f760cdaa806bc3e9eb5192c0e501fe1b73311d96", null ],
       [ "DESCRIPTION_RECHARGE_UPSMODDED", "iteminfo__query_8h.html#aa68a581556ddf9d10387ba6d9f760cdaac9ddd8ec0ae7bb9c31ab86c5b710a26b", null ],
       [ "DESCRIPTION_RECHARGE_NORELOAD", "iteminfo__query_8h.html#aa68a581556ddf9d10387ba6d9f760cdaa66ded97adad69f0d0e43b011564cd41d", null ],
       [ "DESCRIPTION_RECHARGE_UPSCAPABLE", "iteminfo__query_8h.html#aa68a581556ddf9d10387ba6d9f760cdaa3a07e3ba4359475b31e1eae6b5743467", null ],
